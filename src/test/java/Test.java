@@ -19,4 +19,5 @@ class AClassWithOneUnitTest {
 //test
 //test
 //Test
+//test
 
